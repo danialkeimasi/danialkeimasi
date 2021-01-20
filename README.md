@@ -1,7 +1,3 @@
-## Hey there, I'm Danial Keimasi 👋
-#### A Student, Developer & Technology Enthusiast
----
-
 ### Connect with me:
 
 [<img align="left" alt="Danial Keimasi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -14,8 +10,6 @@
 
 <br />
 <br />
-
----
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danialkeimasi&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&custom_title=Github Stats" />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialkeimasi&layout=compact&hide_border=true" /> 
