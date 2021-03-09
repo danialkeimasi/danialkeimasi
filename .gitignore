@@ -6,6 +6,9 @@ __pycache__/
 # Vscode
 .vscode/
 
+# Auto generated template
+auto/
+
 # C extensions
 *.so
 
