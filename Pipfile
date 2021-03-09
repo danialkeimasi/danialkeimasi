@@ -5,9 +5,11 @@ name = "pypi"
 
 [packages]
 typer = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 black = "*"
+pyreadline = "*"
 
 [requires]
 python_version = "3.9"
