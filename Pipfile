@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 typer = "*"
 beautifulsoup4 = "*"
+jinja2 = "*"
 
 [dev-packages]
 black = "*"
