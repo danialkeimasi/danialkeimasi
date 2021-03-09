@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Danial Keimasi",
+    "label": "Backend Developer",
+    "picture": "/danialkeimasi-profile.jpg",
+    "email": "danialkeimasi@gmail.com",
+    "phone": "",
+    "website": "kmasi.ir",
+    "summary": "Specialising in Python/Django Development and learning the new tech. I’m passionate about make things work in the right way! As a teenager I was the go-to guy for fixing technical problems. Today, not much has changed. The difference is I now also develop software to solve the problems.<br><br>During my degree in the Bu-ali Sina university, I have met talented developers and I grow up with a good small community, step by step. since then, every week I spend significant amount of time working on different projects, mostly Python and Web based projects.<br><br>I've collaborated in to more than 10 big projects directly and written good quality code, and also consulting and helping others for their projects or help people to start developing as a career.",
+    "location": {
+      "countryCode": "IR",
+      "address": "Tehran, Iran"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "danialkeimasi",
+        "url": "https://www.linkedin.com/in/danialkeimasi/"
+      },
+      {
+        "network": "Github",
+        "username": "danialkeimasi",
+        "url": "https://www.github.com/danialkeimasi/"
+      },
+      {
+        "network": "Soundcloud",
+        "username": "danialkeimasi",
+        "url": "https://soundcloud.com/danialkeimasi/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "endDate": "2021-01-01",
+      "highlights": ["Python/Django", "Relational Databases", "Wordpress"],
+      "position": "Web Developer",
+      "startDate": "2017-11-30",
+      "summary": "",
+      "website": ""
+    },
+    {
+      "company": "Dr.Pilevar's Startup",
+      "endDate": "2020-11-30",
+      "highlights": ["Python/Django", "Mysql", "Frontend", "Deploy"],
+      "position": "Web Developer",
+      "startDate": "2020-06-30",
+      "summary": "Worked as Full Stack Developer.",
+      "website": ""
+    },
+    {
+      "company": "Whoknows Startup",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "position": "Back End Developer",
+      "startDate": "2019-02-28",
+      "summary": "Creating question generator and solving complex problems for a game called whoknows.",
+      "website": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bu-Ali Sina University",
+      "position": "Teaching Assistant",
+      "website": "https://www.linkedin.com/company/15094412",
+      "startDate": "2018-09-30",
+      "endDate": "2019-02-28",
+      "summary": "For Dr.Morteza Yousef Sanati",
+      "highlights": [
+        "Advanced Programmin \"Object Oriented Programming In C++\""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bu-Ali Sina University",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2017-12-31",
+      "endDate": "2021-12-31",
+      "gpa": "",
+      "courses": [
+        "OOP",
+        "Algorithm Design",
+        "CI",
+        "Computer Network",
+        "Network Security",
+        "Data Structures",
+        "Database System Implementation",
+        "Data Mining",
+        "Software Engineering Methods"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python/Django Backend Developer",
+      "level": "Master",
+      "keywords": [
+        "Django Framework",
+        "Django REST Framework",
+        "Python",
+        "Flask",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "Database Design",
+        "Relational Databases",
+        "MongoDB",
+        "Redis (Database Cache)"
+      ]
+    },
+    {
+      "name": "Industry Knowledge",
+      "level": "Master",
+      "keywords": [
+        "Software Project Management",
+        "Agile & Waterfall Methodologies",
+        "Test Driven Development",
+        "Linux System Administration",
+        "Docker",
+        "Network Protocols",
+        "Git",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Basic Front End",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Bootstrap"]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Intermediate",
+      "keywords": ["Network Security", "JavaScript", "React.js", "Flutter"]
+    },
+    {
+      "name": "Interpersonal Skills",
+      "keywords": [
+        "Communication",
+        "Training",
+        "Teamwork",
+        "Constructive Feedback",
+        "Organization Skills",
+        "Leadership",
+        "Time Management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "meta": { "theme": "spartan" }
+}
