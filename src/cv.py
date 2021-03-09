@@ -21,9 +21,9 @@ def update_base():
         features="html.parser",
     )
     soup = utils.remove_scripts(soup)
-    soup = utils.save_css_as_file(soup, "templates/styles.css", "/styles.css")
+    soup = utils.save_css_as_file(soup, "../docs/styles.css", "styles.css")
     soup = utils.add_jinja(soup)
-    utils.save_file(str(soup.prettify()), "templates/base.html")
+    utils.save_file(str(soup.prettify()), "templates/auto/base.html")
 
 
 @app.command()
