@@ -1,27 +1,37 @@
 import os
 import typer
 import requests
-import bs4
+import jinja2
 
+from bs4 import BeautifulSoup
 import utils
 
 app = typer.Typer()
 
 
 @app.command()
-def update():
+def gist():
     typer.echo(os.popen("gh gist edit b14877578266205717bbb9820b4ad63f").read())
 
 
 @app.command()
-def export():
-    soup = bs4.BeautifulSoup(
+def update_base():
+    soup = BeautifulSoup(
         requests.get("https://registry.jsonresume.org/danialkeimasi").text,
         features="html.parser",
     )
     soup = utils.remove_scripts(soup)
-    soup = utils.save_css_as_file(soup, "export/styles.css", "/styles.css")
-    utils.save_file(str(soup.prettify()), "export/index.html")
+    soup = utils.save_css_as_file(soup, "templates/styles.css", "/styles.css")
+    soup = utils.add_jinja(soup)
+    utils.save_file(str(soup.prettify()), "templates/base.html")
+
+
+@app.command()
+def export():
+    template_env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath="./templates"))
+    template = template_env.get_template("index.html")
+    rendered_template = template.render()
+    utils.save_file(rendered_template, "../docs/index.html")
 
 
 if __name__ == "__main__":
