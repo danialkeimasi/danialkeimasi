@@ -29,6 +29,7 @@ def save_css_as_file(soup, file_address, online_address):
 def add_jinja(soup):
     page = str(soup)
     page = page.replace('<html>', '<html>\n<head>')
+    page = page.replace('href="kmasi.ir"', 'href="http://kmasi.ir"')
     page = page.replace('<body>', '</head>\n<body>')
     page = page.replace('</body>', '{% block ebody %}{% endblock %}\n</body>')
     page = page.replace('</head>', '{% block ehead %}{% endblock %}\n</head>')
