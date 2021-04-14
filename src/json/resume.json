@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Danial Keimasi",
-    "label": "Backend Developer",
+    "label": "Backend Developer (Python/Django)",
     "picture": "danialkeimasi-profile.jpg",
     "email": "danialkeimasi@gmail.com",
     "phone": "",
@@ -80,7 +80,7 @@
       "endDate": "2021-12-31",
       "gpa": "",
       "courses": [
-        "OOP",
+        "OOP Principles",
         "Algorithm Design",
         "CI",
         "Computer Network",

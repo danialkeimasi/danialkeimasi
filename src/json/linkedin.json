@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Danial Keimasi",
-    "label": "Backend Developer",
+    "label": "Backend Developer (Python/Django)",
     "picture": "",
     "email": "danialkeimasi@gmail.com",
     "phone": "",
@@ -68,15 +68,13 @@
       "endDate": "2021-12-31",
       "gpa": "",
       "courses": [
-        "null - OOP",
+        "null - OOP Principles",
         "null - Algorithm Design",
         "null - Computer Network",
         "null - Network Security",
         "null - Data Structures",
         "null - Database System Implementation",
-        "null - Data Mining",
-        "null - Software Engineering Methods",
-        "null - System Analysis and Design"
+        "null - Data Mining"
       ]
     }
   ],
