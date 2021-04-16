@@ -6,7 +6,7 @@
     "email": "danialkeimasi@gmail.com",
     "phone": "",
     "website": "kmasi.ir",
-    "summary": "specializing in Python/Django Development and learning the new tech. I’m passionate about make things work in the right way! As a teenager I was the go-to guy for fixing technical problems. Today, not much has changed. The difference is I now also develop software to solve the problems.<br><br>During my degree in the Bu-ali Sina university, I have met talented developers and I grow up with a good small community, step by step. since then, every week I spend significant amount of time working on different projects, mostly Python and Web based projects.<br><br>I've collaborated in to more than 10 projects directly and written good quality code, and also consulting and helping others for their projects or help people to start developing as a career.",
+    "summary": "Specializing in Python/Django Development and learning the new tech. I’m passionate about make things work in the right way! As a teenager I was the go-to guy for fixing technical problems. Today, not much has changed. The difference is I now also develop software to solve the problems.<br><br>During my degree in the Bu-ali Sina university, I have met talented developers and I grow up with a good small community, step by step. since then, every week I spend significant amount of time working on different projects, mostly Python and Web based projects.<br><br>I've collaborated in to more than 10 projects directly and written good quality code, and also consulting and helping others for their projects or help people to start developing as a career.",
     "location": {
       "countryCode": "IR",
       "address": "Tehran, Iran"
@@ -40,12 +40,12 @@
       "website": ""
     },
     {
-      "company": "Dr.Pilevar's Startup",
+      "company": "Baba Taher comprehensive intelligent system",
       "endDate": "2020-11-30",
       "highlights": ["Python/Django", "Mysql", "Frontend", "Deploy"],
-      "position": "Web Developer",
+      "position": "Software Developer",
       "startDate": "2020-06-30",
-      "summary": "Worked as Full Stack Developer.",
+      "summary": "Worked as Full Stack Web Developer.",
       "website": ""
     },
     {
@@ -88,7 +88,7 @@
         "Data Structures",
         "Database System Implementation",
         "Data Mining",
-        "Software Engineering Methods"
+        "Software Engineering"
       ]
     }
   ],
