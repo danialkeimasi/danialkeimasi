@@ -67,7 +67,7 @@
       "endDate": "2019-02-28",
       "summary": "For Dr.Morteza Yousef Sanati",
       "highlights": [
-        "Advanced Programmin \"Object Oriented Programming In C++\""
+        "Advanced Programming \"Object Oriented Programming In C++\" for Dr. Morteza Yousef Sanati"
       ]
     }
   ],
@@ -110,6 +110,7 @@
       "name": "Databases",
       "level": "Master",
       "keywords": [
+        "NoSQL",
         "Database Design",
         "Relational Databases",
         "MongoDB",
@@ -122,23 +123,25 @@
       "keywords": [
         "Software Project Management",
         "Agile & Waterfall Methodologies",
+        "Scrum",
         "Test Driven Development",
         "Linux System Administration",
         "Docker",
         "Network Protocols",
         "Git",
-        "SQL"
+        "SQL",
+        "C/C++"
       ]
     },
     {
       "name": "Basic Front End",
       "level": "Master",
-      "keywords": ["HTML", "CSS", "Bootstrap"]
+      "keywords": ["HTML", "CSS", "Bootstrap", "React.js"]
     },
     {
       "name": "Other Skills",
       "level": "Intermediate",
-      "keywords": ["Network Security", "JavaScript", "React.js", "Flutter"]
+      "keywords": ["Network Security", "JavaScript", "Flutter"]
     },
     {
       "name": "Interpersonal Skills",

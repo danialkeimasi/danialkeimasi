@@ -55,7 +55,7 @@
       "website": "https://www.linkedin.com/company/15094412",
       "startDate": "2018-09-30",
       "endDate": "2019-02-28",
-      "summary": "Advanced Programmin \"Object Oriented Programming In C++\" for Dr.Morteza Yousef Sanati",
+      "summary": "Advanced Programming \"Object Oriented Programming In C++\" for Dr. Morteza Yousef Sanati",
       "highlights": []
     }
   ],
@@ -97,22 +97,12 @@
       "keywords": []
     },
     {
-      "name": "Software Project Management",
+      "name": "Linux System Administration",
       "level": "",
       "keywords": []
     },
     {
       "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Communication",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Flask",
       "level": "",
       "keywords": []
     },
@@ -127,27 +117,17 @@
       "keywords": []
     },
     {
-      "name": "Relational Databases",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Cascading Style Sheets (CSS)",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Teamwork",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "REST APIs",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
       "level": "",
       "keywords": []
     },
@@ -162,16 +142,6 @@
       "keywords": []
     },
     {
-      "name": "Agile & Waterfall Methodologies",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Organization Skills",
       "level": "",
       "keywords": []
@@ -182,17 +152,72 @@
       "keywords": []
     },
     {
-      "name": "Leadership",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Back-End Web Development",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Linux System Administration",
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Music Production",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Flask",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Relational Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST APIs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
       "level": "",
       "keywords": []
     },
@@ -207,7 +232,7 @@
       "keywords": []
     },
     {
-      "name": "Time Management",
+      "name": "C",
       "level": "",
       "keywords": []
     },
