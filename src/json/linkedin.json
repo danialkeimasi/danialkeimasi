@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Danial Keimasi",
-    "label": "Backend Developer (Python/Django)",
+    "label": "Software Engineer at Quera",
     "picture": "",
     "email": "danialkeimasi@gmail.com",
     "phone": "",
     "website": "",
-    "summary": "Specializing in Python/Django Development and learning the new tech. I’m passionate about make things work in the right way! As a teenager I was the go-to guy for fixing technical problems. Today, not much has changed. The difference is I now also develop software to solve the problems.\n\nDuring my degree in the Bu-ali Sina university, I have met talented developers and I grow up with a good small community, step by step. since then, every week I spend significant amount of time working on different projects, mostly Python and Web based projects.\n\nI've collaborated in to more than 10 projects directly and written good quality code, and also consulting and helping others for their projects or help people to start developing as a career.\n\nIf you want to know more about me, here is my personal website:\nwww.kmasi.ir",
+    "summary": "I’m passionate about make things work in the right way! As a teenager I was the go-to guy for fixing technical problems. Today, not much has changed. The difference is I now also develop software to solve the problems.\n\nDuring my degree in the Bu-ali Sina university, I have met talented developers and I grow up with a good small community, step by step. since then, every week I spend significant amount of time working on different projects, mostly Python and Web based projects.\n\nI've collaborated in to more than 10 projects directly and written good quality code, and also consulting and helping others for their projects or help people to start developing as a career.\n\nIf you want to know more about me, here is my personal website:\nwww.kmasi.ir",
     "location": {
       "countryCode": "US",
       "address": "Iran"
@@ -21,8 +21,17 @@
   },
   "work": [
     {
-      "company": "Freelance",
+      "company": "Quera",
       "endDate": "",
+      "highlights": [],
+      "position": "Software Engineer",
+      "startDate": "2021-04-30",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/10404445"
+    },
+    {
+      "company": "Freelance",
+      "endDate": "2021-03-31",
       "highlights": [],
       "position": "Web Developer",
       "startDate": "2017-11-30",
@@ -33,9 +42,9 @@
       "company": "Baba Taher comprehensive intelligent system",
       "endDate": "2020-11-30",
       "highlights": [],
-      "position": "Software Developer",
+      "position": "Web Developer",
       "startDate": "2020-06-30",
-      "summary": "Worked as Full Stack Web Developer.\n- Python/Django\n- Deploy\n- Simple frontend",
+      "summary": "Worked as Full Stack Web Developer.\n- Python/Django\n- Simple frontend",
       "website": ""
     },
     {
@@ -92,6 +101,16 @@
       "keywords": []
     },
     {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Database Design",
       "level": "",
       "keywords": []
@@ -102,27 +121,7 @@
       "keywords": []
     },
     {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Redis",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Training",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cascading Style Sheets (CSS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MongoDB",
+      "name": "Test Driven Development",
       "level": "",
       "keywords": []
     },
@@ -132,52 +131,7 @@
       "keywords": []
     },
     {
-      "name": "Constructive Feedback",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Docker Products",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Organization Skills",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Django REST Framework",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Back-End Web Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Time Management",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Music Production",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Communication",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Flask",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C++",
       "level": "",
       "keywords": []
     },
@@ -187,7 +141,22 @@
       "keywords": []
     },
     {
-      "name": "Teamwork",
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker Products",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django REST Framework",
       "level": "",
       "keywords": []
     },
@@ -197,12 +166,7 @@
       "keywords": []
     },
     {
-      "name": "NoSQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "React.js",
+      "name": "Flask",
       "level": "",
       "keywords": []
     },
@@ -212,27 +176,12 @@
       "keywords": []
     },
     {
-      "name": "Scrum",
+      "name": "Cascading Style Sheets (CSS)",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Leadership",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Test Driven Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C",
+      "name": "JavaScript",
       "level": "",
       "keywords": []
     },
@@ -242,7 +191,77 @@
       "keywords": []
     },
     {
-      "name": "SQL",
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Next.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Constructive Feedback",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Organization Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Back-End Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quera",
       "level": "",
       "keywords": []
     }
